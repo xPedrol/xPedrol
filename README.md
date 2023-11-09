@@ -2,7 +2,7 @@
 Me chamo Pedro. Atualmente, estou cursando Ciências da Computação na UFV. Sou formado como técnico em desenvolvimento de sistemas pelo CEFET-MG, onde comecei minha experiência como desenvolvedor há 5 anos atrás. Desde então, tenho focado no desenvolvimento Full Stack, nas stacks mencionadas abaixo.
 
 <p align='left'>
-  <a href="https://www.linkedin.com/in/pedrol03/">
+  <a href="https://www.linkedin.com/in/pedrol03/" target="_blank">
     <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
