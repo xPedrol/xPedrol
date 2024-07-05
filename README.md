@@ -19,7 +19,6 @@ Me chamo Pedro. Atualmente, estou cursando Ciências da Computação na UFV. Sou
 	<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 	<img alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?&style=for-the-badge&logo=Laravel&logoColor=white"/>
-  <img alt="IIS Server" src="https://img.shields.io/badge/IIS%20Server-%2300599C.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
   <img alt="Tailwind" src="https://img.shields.io/badge/tailwindcss%20-%23563D7C.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
